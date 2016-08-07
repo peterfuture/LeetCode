@@ -6,3 +6,4 @@ C/Java Impl.
 |1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C](./C/1-TwoSum/TwoSum.c)|Easy|
 |2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [C](./C/2-AddTwoNumbers/AddTwoNumbers.c),[Java](./Java/2-AddTwoNumbers/src/Solution.java)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C](./C/3-LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.c),[Java](./Java/3-LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java)|Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [C](./C/4-MedianofTwoSortedArrays/MedianofTwoSortedArrays.c)|Hard|
