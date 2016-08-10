@@ -10,3 +10,4 @@ C/Java Impl.
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C](./C/5-LongestPalindromicSubstring/LongestPalindromicSubstring.c)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C](./C/6-ZigZagConversion/ZigZagConversion.c)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [C](./C/7-ReverseInteger/ReverseInteger.c)|Easy|
+|8|[8-StringtoInteger](https://leetcode.com/problems/string-to-integer-atoi/)| [C](./C/8-StringtoInteger/StringtoInteger)|Easy|
