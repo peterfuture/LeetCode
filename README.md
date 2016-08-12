@@ -10,5 +10,6 @@ C/Java Impl.
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C](./C/5-LongestPalindromicSubstring/LongestPalindromicSubstring.c)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C](./C/6-ZigZagConversion/ZigZagConversion.c)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [C](./C/7-ReverseInteger/ReverseInteger.c)|Easy|
-|8|[StringtoInteger](https://leetcode.com/problems/string-to-integer-atoi/)| [C](./C/8-StringtoInteger/StringtoInteger.c)|Easy|
-|9|[PalindromeNumber](https://leetcode.com/problems/palindrome-number/)| [C](./C/9-PalindromeNumber/PalindromeNumber.c)|Easy|
+|8|[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)| [C](./C/8-StringtoInteger/StringtoInteger.c)|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C](./C/9-PalindromeNumber/PalindromeNumber.c)|Easy|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| [C](./C/10-RegularExpressionMatching/RegularExpressionMatching.c)|Hard|
