@@ -17,3 +17,4 @@ C/Java Impl.
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [C](./C/12-IntegertoRoman/IntegertoRoman.c)|Medium|
 |13|[Roman to Intege](https://leetcode.com/problems/roman-to-integer/)| [C](./C/13-RomantoInteger/RomantoInteger.c)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [C](./C/14-LongestCommonPrefix/LongestCommonPrefix.c)|Easy|
+|15|[3Sum](https://leetcode.com/problems/3sum/)| [C](./C/15-3Sum/3Sum.c)|Medium|
