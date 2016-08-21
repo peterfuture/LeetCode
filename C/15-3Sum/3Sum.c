@@ -24,7 +24,6 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-
 int bubblesort(int *A, int n)
 {
     int i=0,j=0;
