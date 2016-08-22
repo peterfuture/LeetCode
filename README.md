@@ -19,3 +19,4 @@ C/Java Impl.
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [C](./C/14-LongestCommonPrefix/LongestCommonPrefix.c)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [C](./C/15-3Sum/3Sum.c)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [C](./C/16-3SumClosest/3SumClosest.c)|Medium|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C](./C/17-LetterCombinationsofaPhoneNumber/LetterCombinationsofaPhoneNumber.c)|Medium|
