@@ -22,3 +22,4 @@ C/Java Impl.
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C](./C/17-LetterCombinationsofaPhoneNumber/LetterCombinationsofaPhoneNumber.c)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [C](./C/18-4Sum/4Sum.c)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C](./C/19-RemoveNthNodeFromEndofList/RemoveNthNodeFromEndofList.c)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C](./C/20-ValidParentheses/ValidParentheses.c)|Easy|
