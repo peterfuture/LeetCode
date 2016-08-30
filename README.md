@@ -26,3 +26,4 @@ C/Java Impl.
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C](./C/21-MergeTwoSortedLists/MergeTwoSortedLists.c)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [C](./C/22-GenerateParentheses/GenerateParentheses.c)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C](./C/23-MergekSortedLists/MergekSortedLists.c)|Hard|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [C](./C/25-ReverseNodesink-Group/ReverseNodesink-Group.c)|Hard|
