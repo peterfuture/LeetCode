@@ -25,3 +25,4 @@ C/Java Impl.
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C](./C/20-ValidParentheses/ValidParentheses.c)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C](./C/21-MergeTwoSortedLists/MergeTwoSortedLists.c)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [C](./C/22-GenerateParentheses/GenerateParentheses.c)|Medium|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C](./C/23-MergekSortedLists/MergekSortedLists.c)|Hard|
