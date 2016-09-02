@@ -28,3 +28,4 @@ C/Java Impl.
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C](./C/23-MergekSortedLists/MergekSortedLists.c)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C](./C/24-SwapNodesinPairs/SwapNodesinPairs.c)|Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [C](./C/25-ReverseNodesink-Group/ReverseNodesink-Group.c)|Hard|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [C](./C/29-DivideTwoIntegers/DivideTwoIntegers.c)|Medium|
